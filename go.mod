@@ -1,3 +1,3 @@
-module github.com/hugomods/recaptcha-v2
+module github.com/clondon/recaptcha-v2
 
 go 1.19
